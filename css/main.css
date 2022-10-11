@@ -39,7 +39,7 @@ hr {
 }
 
 div.ytub {
-  background-image: url(../image/youtube_gray.png);
+  background-image: url(image/youtube_gray.png);
   background-repeat: no-repeat;
   float: left;
   width: 64px;
@@ -48,7 +48,7 @@ div.ytub {
 }
 
 div.in {
-  background-image: url(../image/insta_gray.png);
+  background-image: url(image/insta_gray.png);
   background-repeat: no-repeat;
   float: left;
   margin-left: 3px;
@@ -56,7 +56,7 @@ div.in {
   height: 64px;
 }
 div.fb {
-  background-image: url(../image/fb_gray.png);
+  background-image: url(image/fb_gray.png);
   background-repeat: no-repeat;
   float: left;
   margin-left: 3px;
@@ -65,14 +65,14 @@ div.fb {
 }
 
 div.ytub:hover {
-  background-image: url(../image/youtube.png);
+  background-image: url(image/youtube.png);
   
 }
 div.in:hover {
-  background-image: url(../image/insta.png);
+  background-image: url(image/insta.png);
 }
 div.fb:hover {
-  background-image: url(../image/fb.png);
+  background-image: url(image/fb.png);
 }
 a.left1:hover {
   text-decoration: underline;
